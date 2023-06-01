@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently finishing my last year of Computer Science at KU Leuven.<br>💼 I'm blogging sometimes, as well as brainstorming a lot about potential ideas for creating a tech startup.<br>🌱 I’m currently broadening my skills on web development.<br>👯 I'm always happy to hear about ideas for a startup.<br>⚡ Fun fact: I like to try out new sports.
+🔭 I’m currently finishing my last year of Computer Science at KU Leuven.<br>💼 I'm blogging sometimes, as well as brainstorming a lot about potential ideas for creating a tech startup.<br>🌱 I’m currently broadening my skills on web development.<br>👯 I'm always happy to hear about ideas for a startup.<br>⚡ Fun fact: I like to try out new sports.<br>🌐 Check out my website: https://jorritwillaert.com
 
 ## 🌐 Socials:
 
