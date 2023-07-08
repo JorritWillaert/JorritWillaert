@@ -1,8 +1,11 @@
 # 💫 About Me:
 
 🔭 I'm a co-founder of Artificieel, a company dedicated to assisting other companies in enhancing the searchability of their internal knowledge base using AI models.
+
 🖥️ Additionally, I engage in freelance IT work.
+
 ☕ I am always available for a conversation!
+
 📇 For more information, please visit my website at https://jorritwillaert.com
 
 ## 🌐 Socials:
