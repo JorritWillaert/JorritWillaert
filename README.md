@@ -1,12 +1,18 @@
 # 💫 About Me:
 
-🔭 I'm a co-founder of Artificieel, a company dedicated to assisting other companies in enhancing the searchability of their internal knowledge base using AI models.
+🔭 I'm Jorrit, co-founder of Jurimesh, and with Jurimesh, we're on a mission! Our mission is to map out legal knowledge and documents. We make internal knowledge more accessible and develop functionalities to automatically categorize it, making hidden information visible again. Additionally, we accelerate legal due diligences through integration with a virtual data room. For this, we conduct in-depth analyses such as identifying red flags, comparing contracts, drafting an initial version of the legal due diligence report, and future expansions to Q&A functionality.
 
-🖥️ Additionally, I engage in freelance IT work.
+🏄 https://jurimesh.com
 
-☕ I am always available for a conversation!
+☕ Always happy to grab a coffee!
 
-📇 For more information, please visit my website at https://jorritwillaert.com
+📞 +32 491 30 12 71
+
+📧 jorrit@jurimesh.com or jorrit@jorritwillaert.com
+
+🔭 Keen interest in everything related to physics. Loves to read about general relativity, quantum mechanics and string theory.
+
+📇 For more information, please visit my personal website at https://jorritwillaert.com
 
 ## 🌐 Socials:
 
